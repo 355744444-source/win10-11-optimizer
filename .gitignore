@@ -1,0 +1,24 @@
+# 构建产物（走 GitHub Releases，不入库）
+dist/
+build/
+*.spec
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# 运行时清单与备份
+manifest-*.json
+baseline-*.md
+
+# 编辑器与系统
+.vscode/
+.idea/
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# WorkBuddy 工作区数据
+.workbuddy/

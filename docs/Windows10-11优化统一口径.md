@@ -197,7 +197,7 @@
 
 ### 3.5 图形界面版（给一线执行人）
 
-`Windows优化工具_v1.1.exe`：单文件 GUI，约 10 MB，免安装、免 PowerShell 模块（Win10/11 自带 5.1 即可）。
+`WinOpt_v1.1.exe`（Release 资产名；源码目录内为 `dist\WinOpt_v1.1.exe`）：单文件 GUI，约 10 MB，免安装、免 PowerShell 模块（Win10/11 自带 5.1 即可）。
 
 界面两栏：**左栏**选机型（办公 / 开发 / 设计 / 个人，横向分段）与动作，**右栏**是实时日志（按 OK / WARN / ERROR / 跳过 分级着色，可整段复制）。
 

@@ -6,7 +6,7 @@
 [CmdletBinding()]
 param(
     [string]$Python = '',
-    [string]$Name = 'Windows优化工具'
+    [string]$Name = 'WinOpt'
 )
 
 $ErrorActionPreference = 'Stop'

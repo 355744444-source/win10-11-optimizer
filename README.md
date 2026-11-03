@@ -111,7 +111,7 @@
 - 页面文件
 - Windows Search 服务
 
-**7 条红线**（任何机型都不进默认包）：关 Defender、关 Windows Update、删 WinSys/强删系统组件、禁用页面文件、关 Windows Search 服务、第三方"优化大师"类工具、把关 VBS 当批量默认。
+**7 条红线**（任何机型都不进默认包）：关 Defender、关 Windows Update、删 WinSxS/强删系统组件、禁用页面文件、关 Windows Search 服务、第三方"优化大师"类工具、把关 VBS 当批量默认。
 
 ---
 
